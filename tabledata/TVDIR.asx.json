@@ -1,0 +1,23 @@
+[
+ {
+  "table":"TVDIR",
+  "data":
+  [
+   {
+    "TABNAME":"ZGCTS_POC_REG",
+    "AREA":"ZGCTS_POC_REG",
+    "DEVCLASS":"ZGCTS_POC",
+    "TYPE":"1",
+    "LISTE":1,
+    "DETAIL":0,
+    "OCCURS":0,
+    "CLTCODE":"",
+    "BASTAB":"X",
+    "NEWGENER":"",
+    "GENDATE":"2022-09-14",
+    "GENTIME":"14:08:28",
+    "FLAG":""
+   }
+  ]
+ }
+]

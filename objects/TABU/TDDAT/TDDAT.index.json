@@ -1,0 +1,18 @@
+[
+ {
+  "table":"TDDAT",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"TABNAME",
+      "value":"ZGCTS_POC_REG"
+     }
+    ],
+    "hash":"5fV6/bX04zO1faixAlCieixEZk4="
+   }
+  ]
+ }
+]
